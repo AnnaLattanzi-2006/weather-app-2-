@@ -3,7 +3,7 @@ import axios from 'axios';
 
 function App() {
 
-//const url = https://api.openweathermap.org/data/2.5/weather?q={dallas}&appid={8e4b0482cfa8d045e8b366a69be667e0}
+//const url = 'https://api.openweathermap.org/data/2.5/weather?q=dallas&appid=91c0215cc678a5541031762d41f40490'
 
   return (
     <div className="App">
