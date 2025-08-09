@@ -22,6 +22,7 @@ A simple and responsive weather application built with **React**, **JavaScript**
 - **JavaScript (ES6)** – Logic and API handling
 - **CSS** – Styling
 - **OpenWeatherMap API** – Weather data source
+- **HTML** – Markup and semantic structure
 
 ---
 
